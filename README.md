@@ -32,11 +32,11 @@ This repository contains an end-to-end implementation of a Retrieval Augmented G
 
 * **Python:** Programming language.
 
-* **Vector Database:**FAISS.
+* **Vector Database:** FAISS.
 
-* ** Embedding Model:**GoogleGenerativeAIEmbeddings .
+* **Embedding Model:** GoogleGenerativeAIEmbeddings .
 
-* **Frameworks/Libraries:**LangChain, Streamlit.
+* **Frameworks/Libraries:** LangChain, Streamlit.
 
 
 
@@ -98,17 +98,11 @@ This repository contains an end-to-end implementation of a Retrieval Augmented G
 
 
 
-4.  Set up your Groq API key (if applicable):
+4.  Set up your Groq API key:
 
 
 
     * Store your API key in an environment variable or configuration file.
-
-
-
-5.  (Specify Vector Database Setup):
-
-    * Provide instructions for setting up the vector database.
 
 
 
@@ -123,17 +117,9 @@ This repository contains an end-to-end implementation of a Retrieval Augmented G
 2.  Run the application:
 
 
-
     ```bash
 
     python app.py #or whatever the main file is called.
 
     ```
-
-
-
-3.  (If applicable) Access the application through the provided URL or interface.
-
-
-
 4.  Ask questions related to your documents.
