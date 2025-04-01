@@ -14,7 +14,7 @@ This repository contains an end-to-end implementation of a Retrieval Augmented G
 
 * **Text Chunking & Embedding:** Splits documents into manageable chunks and generates embeddings for semantic search.
 
-* **Vector Database:** Utilizes a vector database (specify which one you are using, like Chroma or FAISS) for efficient similarity search.
+* **Vector Database:** Utilizes a vector database **FAISS**  for efficient similarity search.
 
 * **Groq Inference:** Integrates with Groq for fast inference, providing low-latency responses.
 
