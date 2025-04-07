@@ -2,7 +2,7 @@
 
 
 
-This repository contains an end-to-end implementation of a Retrieval Augmented Generation (RAG) application for document question answering. It leverages the power of Groq's fast inference capabilities and Google's Gemma model for efficient and accurate question answering over your documents.
+This repository contains an end-to-end implementation of a Retrieval Augmented Generation (RAG) application for document question answering. It leverages the power of Groq's fast inference capabilities and Google's Gemma model for efficient and accurate question answering over your documents.In here i have just taken a "SAMEPLE DOCUMENTS"
 
 # Kind of architecture
 
