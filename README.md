@@ -64,35 +64,28 @@ This repository contains an end-to-end implementation of a Retrieval Augmented G
 1.  Clone the repository:
 
 
-    ```bash
     git clone [https://github.com/Vijayvarma115/End-To-End-Document-Q-A-RAGapp-Groq-Gemma-.git](https://www.google.com/search?q=https://github.com/Vijayvarma115/End-To-End-Document-Q-A-RAGapp-Groq-Gemma-.git)
 
     cd End-To-End-Document-Q-A-RAGapp-Groq-Gemma-
-    ```
 
 
 
 2.  Create a virtual environment (recommended):
 
 
-    ```bash
     python -m venv venv
 
     source venv/bin/activate  # On macOS/Linux
 
     venv\Scripts\activate  # On Windows
 
-    ```
 
 
 
 3.  Install dependencies:
 
 
-
-    ```bash
     pip install -r requirements.txt
-    ```
 
 
 
