@@ -25,6 +25,8 @@ This repository contains an end-to-end implementation of a Retrieval Augmented G
 
 * **Gemma Model:** Employs Google's Gemma model for generating accurate and contextually relevant answers.
 
+* **Response Time:** Typically around 1 second for fast, low-latency processing and retrieval.
+
 
 
 ## Technologies Used
